@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh Tiwari</h1>
 
 <h3 align="center">
-Aspiring Python Developer | Learning FastAPI, Data Science & AI
+Aspiring Python Developer | Learning FastAPI, Data Science & AI | Building Real-World Projects | Open to Internship Opportunities
 </h3>
 
 <p align="center">
