@@ -1,30 +1,50 @@
 <h1 align="center">Hi 👋, I'm Adarsh Tiwari</h1>
 
 <h3 align="center">
-Backend Developer | Python Developer | Data Analytics Enthusiast
+Aspiring Python Developer | Learning FastAPI, Data Science & AI | Building Real-World Projects | Open to Internship Opportunities
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+Developer;FastAPI+%7C+Docker+%7C+AWS;Data+Analytics+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=900&lines=Aspiring+Python+Developer;Learning+FastAPI+%7C+Data+Science+%7C+AI;Building+Real-World+Projects;Open+to+Internship+Opportunities" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🔭 Currently working on Backend & Data Analytics Projects
-- 🌱 Learning FastAPI, Docker, AWS & Advanced Python
-- 💡 Interested in scalable backend systems and automation
-- 📊 Passionate about Data Analytics & Visualization
-- ⚡ Goal: Become a Professional Software Engineer
+I am an aspiring Python developer passionate about backend development, data science, and AI-driven applications.
+
+Currently, I am learning and building projects using Python, FastAPI, Flask, Pandas, Docker, and machine learning concepts to strengthen my practical skills.
+
+I enjoy solving problems, exploring modern technologies, and learning through hands-on development.
+
+My goal is to grow into a strong software and AI professional by consistently building projects and improving every day.
+
+- 🌱 Currently learning FastAPI, Docker, AWS, Data Science & AI
+- 💻 Building real-world backend and analytics projects
+- 📊 Interested in Data Analytics & Visualization
+- 🤝 Open to internships, collaborations, and learning opportunities
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Skills & Technologies
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws,mysql,git,github,java,html,css,vscode" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,docker,aws,mysql,html,css,javascript,git,github,vscode" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SQL-05122A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-05122A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-05122A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-05122A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-05122A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-05122A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-05122A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-05122A?style=for-the-badge"/>
 
 </p>
 
@@ -54,7 +74,7 @@ Backend Developer | Python Developer | Data Analytics Enthusiast
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/adarsh-tiwari-aa3507400">
 
