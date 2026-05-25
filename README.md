@@ -50,28 +50,6 @@ My goal is to grow into a strong software and AI professional by consistently bu
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adarsh-tiwari29&show_icons=true&theme=tokyonight&hide_border=true" height="170em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-tiwari29&layout=compact&theme=tokyonight&hide_border=true" height="170em"/>
-
-</p>
-
----
-
-## GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=adarsh-tiwari29&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
 ## Connect With Me
 
 <p align="center">
