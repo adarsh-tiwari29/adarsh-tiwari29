@@ -37,14 +37,17 @@ My goal is to grow into a strong software and AI professional by consistently bu
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data%20Analysis-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/OOP-111827?style=for-the-badge" />
 
 </p>
+
 ---
 
 ## Connect With Me
