@@ -50,7 +50,7 @@ My goal is to grow into a strong software and AI professional by consistently bu
 
 ---
 
-## Connect With Me
+## Connect With Me On
 
 <p align="center">
 
